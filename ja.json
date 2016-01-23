@@ -1,12 +1,14 @@
 {
-  "postalcode-jp-1": "",
-  "postalcode-jp-2": "",
-  "postalcode-us-1": "",
-  "postalcode-us-2": "",
-  "street-jp-1": "",
-  "street-jp-2": "",
-  "street-us-1": "",
-  "street-us-2": "",
-  "city-us": "",
-  "state-us": ""
+  "postalcode-jp-1": "郵便番号１",
+  "postalcode-jp-2": "郵便番号２",
+  "postalcode-us-1": "郵便番号１",
+  "postalcode-us-2": "郵便番号２",
+  "street-jp-1": "住所１",
+  "street-jp-2": "住所２（アパート名・社宅など）",
+  "street-us-1": "住所１",
+  "street-us-2": "住所２",
+  "city-jp": "市・郡",
+  "state-jp": 県
+  "city-us": "市",
+  "state-us": "州"
 }
