@@ -7,6 +7,8 @@
   "street-jp-2": "住所（アパート名・社宅など）",
   "street-us-1": "町名、通り名",
   "street-us-2": "アパート番号、オフィス番号、フロア",
+  "city-jp": "市・郡",
+  "state-jp": "県",
   "city-us": "市",
   "state-us": "州"
 }
