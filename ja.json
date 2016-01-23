@@ -4,11 +4,9 @@
   "postalcode-us-1": "郵便番号１",
   "postalcode-us-2": "郵便番号２",
   "street-jp-1": "住所１",
-  "street-jp-2": "住所２（アパート名・社宅名など）",
-  "street-us-1": "町名",
-  "street-us-2": "通り名",
-  "city-jp": "市・郡",
-  "state-jp": "県",
+  "street-jp-2": "住所２（アパート名・社宅など）",
+  "street-us-1": "町名、通り名",
+  "street-us-2": "アパート番号、オフィス番号、フロア",
   "city-us": "市",
   "state-us": "州"
 }
