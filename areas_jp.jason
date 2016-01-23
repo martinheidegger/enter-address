@@ -96,15 +96,15 @@
     "VT": "バーモント",
     "VA": "バージニア",
     "WA": "ワシントン",
-    "WV": "Western Virginia",
-    "WI": "Wisconsin",
-    "WY": "Wyoming",
-    "DC": "District of Columbia",
-    "AS": "American Samoa",
-    "GU": "Guam",
-    "MP": "Northern Mariana Islands",
-    "PR": "Puerto Rico",
-    "UM": "United States Minor Outlying Islands",
-    "VI": "Virgin Islands, U.S."
+    "WV": "ウェストバージニア",
+    "WI": "ウィスコンシン",
+    "WY": "ワイオミング",
+    "DC": "ワシントンD.C.",
+    "AS": "アメリカ領サモア",
+    "GU": "グアム",
+    "MP": "北マリアナ諸島",
+    "PR": "プエロトリコ",
+    "UM": "合衆国領有小離島",
+    "VI": "アメリカ領ヴァージン諸島"
   }
 } 
