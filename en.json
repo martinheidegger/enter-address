@@ -1,12 +1,13 @@
 {
-  "postalcode-jp-1": "",
-  "postalcode-jp-2": "",
-  "postalcode-us-1": "",
+  "postalcode-jp-1": "Zip Code (First 3 Digits)",
+  "postalcode-jp-2": "Zip Code (Last 4 Digits)",
+  "postalcode-us-1": "Zip Code (5 digits)",
   "postalcode-us-2": "",
-  "street-jp-1": "",
-  "street-jp-2": "",
-  "street-us-1": "",
-  "street-us-2": "",
-  "city-us": "",
-  "state-us": ""
+  "street-jp-1": "Building Name or Apartment Name",
+  "street-jp-2": "'Sub Area-Block-Building' Numbers (e.g. 1-2-3) and Ward Name ",
+  "street-jp-3": "City Name, Prefecture (e.g. Tokyo, Kyoto, Osaka, etc.)",
+  "street-us-1": "House Number and Street Name",
+  "street-us-2": "Apartment, Suite, or Floor Number",
+  "city-us": "City Name",
+  "state-us": "State Name"
 }
